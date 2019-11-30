@@ -168,7 +168,7 @@
 - 读写Excel文件 - xlrd模块 / xlwt模块
 - 生成PDF文件 - pypdf2模块 / reportlab模块
 
-### Day16~Day20 - [Python语言进阶 ](./Day16-20/16-20.Python语言进阶.md)
+### Day16~Day20 - [Python语言进阶 ](../Day16-20/16-20.Python语言进阶.md)
 
 - 常用数据结构
 - 函数的高级用法 - “一等公民” / 高阶函数 / Lambda函数 / 作用域和闭包 / 装饰器
